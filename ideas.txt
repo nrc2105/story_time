@@ -4,3 +4,4 @@ After that continue to save periodically to whatever the current file name, swit
 Trigger saves by timer or by manual save.  Commit and push all.
 Make multiple commits, push at longer intervals.
 
+Starting file: git base dir, git clone or create new repo, keygen, etc.
