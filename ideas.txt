@@ -5,3 +5,7 @@ Trigger saves by timer or by manual save.  Commit and push all.
 Make multiple commits, push at longer intervals.
 
 Starting file: git base dir, git clone or create new repo, keygen, etc.
+
+Made these changes in the text editor!
+
+Made some more changes!
