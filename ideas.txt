@@ -2,3 +2,5 @@ Until first save, wait.
 
 After that continue to save periodically to whatever the current file name, switch and commit on switch.
 Trigger saves by timer or by manual save.  Commit and push all.
+Make multiple commits, push at longer intervals.
+
